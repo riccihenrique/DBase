@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1536512438 source:d:\google drive\dbase\main.c
+	"funcoesEstrutura.h"
+
+1536503094 d:\google drive\dbase\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300049 d:\google drive\dbase\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1536512661 d:\google drive\dbase\funcoesdbase.h
+
+1537647389 source:c:\users\ricci\desktop\dbase\main.c
+	"funcoesEstrutura.h"
+
+1537647517 c:\users\ricci\desktop\dbase\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cType.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300049 c:\users\ricci\desktop\dbase\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1537647577 c:\users\ricci\desktop\dbase\funcoesdbase.h
+
+1537580361 source:d:\google drive\facul\4º termo\ed 2\trab\dbase\main.c
+	"funcoesEstrutura.h"
+
+1537630275 d:\google drive\facul\4º termo\ed 2\trab\dbase\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cType.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300049 d:\google drive\facul\4º termo\ed 2\trab\dbase\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1537586436 d:\google drive\facul\4º termo\ed 2\trab\dbase\funcoesdbase.h
+
+1537648083 source:d:\google drive\dbase v2\main.c
+	"funcoesEstrutura.h"
+
+1538656358 d:\google drive\dbase v2\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cType.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300049 d:\google drive\dbase v2\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1537715654 d:\google drive\dbase v2\funcoesdbase.h
+
+1537648084 source:e:\dbase v2\main.c
+	"funcoesEstrutura.h"
+
+1538669980 e:\dbase v2\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cType.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300050 e:\dbase v2\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1538669884 e:\dbase v2\funcoesdbase.h
+
+1537648084 source:f:\dbase v2\main.c
+	"funcoesEstrutura.h"
+
+1538674002 f:\dbase v2\funcoesestrutura.h
+	"meuconio.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<cType.h>
+	<dirent.h>
+	"funcoesDBase.h"
+
+1535300050 f:\dbase v2\meuconio.h
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wincon.h>
+	<stdlib.h>
+
+1538676274 f:\dbase v2\funcoesdbase.h
+
